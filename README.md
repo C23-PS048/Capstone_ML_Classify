@@ -1,4 +1,4 @@
-# Capstone_MLclass
+# Capstone_ML_Classify
 
 ## Dataset
 We have gathered a wide variety of data about the plants available on Kaggle, in total we have collected 31 types of plants. However, the dataset as a whole is still unbalanced due to the limitations of the data available in the public dataset. To avoid highly biased models, we and our advisor decided to set a same amount of dataset for each kind of plants manually. All plant details regarding plant names, short descriptions, along with diseases are available on our Google Spreadsheet.
